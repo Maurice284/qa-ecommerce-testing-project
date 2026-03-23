@@ -1,4 +1,5 @@
 # Bug Reports
+<img width="1187" height="372" alt="image" src="https://github.com/user-attachments/assets/0a545431-73fe-4655-bced-e7657684cfdb" />
 
 ## Bug Overview
 This document tracks bugs found during QA testing of the e-commerce platform. Five critical and high-priority issues have been identified affecting core functionality including cart operations, user authentication, checkout process, product display, and coupon validation.
