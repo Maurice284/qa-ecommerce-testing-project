@@ -65,7 +65,7 @@ This document contains comprehensive test cases for the e-commerce website, cove
 - **Expected Results**: No issues should be present for the fixed features.
 
 ---
-<img width="1197" height="420" alt="image" src="https://github.com/user-attachments/assets/4e804ea9-288f-4369-8994-b25e7d340b51" />
+<img width="822" height="291" alt="image" src="https://github.com/user-attachments/assets/8439b7fd-663d-469d-a718-60370e940e8a" />
 <img width="1177" height="436" alt="image" src="https://github.com/user-attachments/assets/3ec6a9a6-c0a1-4884-9f5f-9692dd29a333" />
 <img width="1167" height="410" alt="image" src="https://github.com/user-attachments/assets/5af1f8d0-6531-462a-a42d-ecf9a6ab5fd0" />
 
