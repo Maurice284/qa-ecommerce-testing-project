@@ -77,4 +77,10 @@ This document tracks bugs found during QA testing of the e-commerce platform. Fi
 <img width="1187" height="372" alt="image" src="https://github.com/user-attachments/assets/0a545431-73fe-4655-bced-e7657684cfdb" />
 
 ## Screenshot Reference
-[Screenshots to be added]
+***Add to Cart Button Not Working***
+<img width="1010" height="673" alt="image" src="https://github.com/user-attachments/assets/12df0aeb-0fed-487c-b8ed-d512aee1dd89" />
+
+***Login Fails with Valid Credentials**
+<img width="1011" height="671" alt="image" src="https://github.com/user-attachments/assets/57227583-0ef2-4079-b699-a93df623b001" />
+
+
