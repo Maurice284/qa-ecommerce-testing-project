@@ -72,10 +72,9 @@ This document tracks bugs found during QA testing of the e-commerce platform. Fi
 | BUG-02 | Login Fails with Valid Credentials | Critical | High | Open |
 | BUG-03 | Cart Total Not Updating | Medium | Medium | Open |
 | BUG-04 | Broken Image on Product Page | Low | Low | Open |
+| BUG-05 | Invalid Coupon Accepted | High | Medium | Open |
 
 <img width="1187" height="372" alt="image" src="https://github.com/user-attachments/assets/0a545431-73fe-4655-bced-e7657684cfdb" />
-
-| BUG-05 | Invalid Coupon Accepted | High | Medium | Open |
 
 ## Screenshot Reference
 [Screenshots to be added]
