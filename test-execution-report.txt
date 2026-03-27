@@ -1,19 +1,57 @@
 # Test Execution Report
 
-## Date: 2026-03-27 17:03:49 UTC
+## Project Information
+**Project Name:** QA E-commerce Testing Project  
+**Test Execution Date:** 2026-03-27 17:05:10  
+**Tested By:** Maurice284  
 
-### Test Cases  
-1. Test Case 1: Description of the test case  
-   - Status: Passed  
-2. Test Case 2: Description of the test case  
-   - Status: Failed  
-   - Defect ID: DEF-123
-3. Test Case 3: Description of the test case  
-   - Status: Passed  
+## Summary Statistics
+- Total Test Cases: 30  
+- Passed: 25  
+- Failed: 5  
+- Test Execution Time: 3 hours 20 minutes  
 
-### Defects Summary  
-- **Total Defects Found:** 1  
-- **Defect IDs:** DEF-123  
+## Test Cases Details
+### Test Case 1
+- **ID:** TC_001  
+- **Description:** Verify login functionality  
+- **Status:** Passed  
+- **Execution Time:** 2 minutes  
 
-### Conclusion  
-The testing phase has been completed, and the application has shown a successful completion rate of 66.67%. Further investigation needed on failed tests.
+### Test Case 2
+- **ID:** TC_002  
+- **Description:** Verify product search functionality  
+- **Status:** Passed  
+- **Execution Time:** 3 minutes  
+
+### Test Case 3
+- **ID:** TC_003  
+- **Description:** Verify add to cart functionality  
+- **Status:** Passed  
+- **Execution Time:** 4 minutes  
+
+### Test Case 4
+- **ID:** TC_004  
+- **Description:** Verify checkout process  
+- **Status:** Failed  
+- **Execution Time:** 5 minutes  
+- **Remarks:** Design issue found  
+...
+
+### Test Case 30
+- **ID:** TC_030  
+- **Description:** Verify order history display  
+- **Status:** Passed  
+- **Execution Time:** 2 minutes  
+
+## Defects Summary
+| Defect ID | Description                | Severity  | Status   |  
+|------------|----------------------------|-----------|----------|  
+| DEF_001   | Checkout button unresponsive| High      | Open     |  
+| DEF_002   | Search results not displaying| Medium   | Resolved |  
+| DEF_003   | Incorrect order total displayed| High      | Open     |  
+| DEF_004   | Layout issues on mobile view | Low      | Resolved |  
+| DEF_005   | User unable to reset password | Critical | Open     |  
+
+## Conclusion
+The test execution was conducted for the QA E-commerce Testing Project. A total of 30 test cases were executed, out of which 25 were successful and 5 failed. Major defects have been logged, especially concerning the checkout process. Further investigation is required to resolve these issues before moving to production.
