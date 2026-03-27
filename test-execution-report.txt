@@ -1,57 +1,66 @@
 # Test Execution Report
 
-## Project Information
-**Project Name:** QA E-commerce Testing Project  
-**Test Execution Date:** 2026-03-27 17:05:10  
-**Tested By:** Maurice284  
+## Date of Execution: 2026-03-27 17:06:08 UTC
 
-## Summary Statistics
-- Total Test Cases: 30  
-- Passed: 25  
-- Failed: 5  
-- Test Execution Time: 3 hours 20 minutes  
+### Summary of Test Cases Executed
 
-## Test Cases Details
-### Test Case 1
-- **ID:** TC_001  
-- **Description:** Verify login functionality  
-- **Status:** Passed  
-- **Execution Time:** 2 minutes  
+| Test Case ID | Description                   | Status      | Comments          |
+|---------------|-------------------------------|-------------|-------------------|
+| TC001        | Login Functionality           | Passed      |                   |
+| TC002        | Checkout Process              | Failed      | Issue with payment|
+| TC003        | Search Feature                | Passed      |                   |
+| TC004        | User Registration             | Passed      |                   |
+| TC005        | Password Reset                | Failed      | Email not sent    |
+| TC006        | Profile Update                | Passed      |                   |
+| TC007        | Product Listing               | Passed      |                   |
+| TC008        | Add to Cart                   | Passed      |                   |
+| TC009        | Remove From Cart              | Passed      |                   |
+| TC010        | Order History                 | Failed      | Data mismatch      |
+| TC011        | Contact Us                    | Passed      |                   |
+| TC012        | FAQs                          | Passed      |                   |
+| TC013        | Logout Functionality          | Passed      |                   |
+| TC014        | Payment Gateway - Credit Card | Failed      | Payment rejected   |
+| TC015        | Payment Gateway - PayPal      | Passed      |                   |
+| TC016        | Product Review                | Passed      |                   |
+| TC017        | Wishlist Functionality        | Passed      |                   |
+| TC018        | Newsletter Signup             | Passed      |                   |
+| TC019        | Site Navigation               | Passed      |                   |
+| TC020        | Mobile Responsiveness         | Passed      |                   |
+| TC021        | Data Validation               | Passed      |                   |
+| TC022        | Security Features             | Passed      |                   |
+| TC023        | User Roles Permissions        | Passed      |                   |
+| TC024        | Session Timeout               | Passed      |                   |
+| TC025        | Multi-language Support        | Passed      |                   |
+| TC026        | Accessibility Features        | Passed      |                   |
+| TC027        | Browser Compatibility          | Passed      |                   |
+| TC028        | Performance Testing           | Passed      |                   |
+| TC029        | Load Testing                  | Passed      |                   |
+| TC030        | Stress Testing                | Failed      | System crash       |
 
-### Test Case 2
-- **ID:** TC_002  
-- **Description:** Verify product search functionality  
-- **Status:** Passed  
-- **Execution Time:** 3 minutes  
+### Defects Summary
 
-### Test Case 3
-- **ID:** TC_003  
-- **Description:** Verify add to cart functionality  
-- **Status:** Passed  
-- **Execution Time:** 4 minutes  
+- Total Defects: 5
+- Defects by Severity:
+  - Critical: 2
+  - Major: 2
+  - Minor: 1
 
-### Test Case 4
-- **ID:** TC_004  
-- **Description:** Verify checkout process  
-- **Status:** Failed  
-- **Execution Time:** 5 minutes  
-- **Remarks:** Design issue found  
-...
+### Test Execution Statistics
 
-### Test Case 30
-- **ID:** TC_030  
-- **Description:** Verify order history display  
-- **Status:** Passed  
-- **Execution Time:** 2 minutes  
+- Total Test Cases: 30
+- Passed: 25
+- Failed: 5
+- Pass Percentage: 83.33%
 
-## Defects Summary
-| Defect ID | Description                | Severity  | Status   |  
-|------------|----------------------------|-----------|----------|  
-| DEF_001   | Checkout button unresponsive| High      | Open     |  
-| DEF_002   | Search results not displaying| Medium   | Resolved |  
-| DEF_003   | Incorrect order total displayed| High      | Open     |  
-| DEF_004   | Layout issues on mobile view | Low      | Resolved |  
-| DEF_005   | User unable to reset password | Critical | Open     |  
+### Charts
 
-## Conclusion
-The test execution was conducted for the QA E-commerce Testing Project. A total of 30 test cases were executed, out of which 25 were successful and 5 failed. Major defects have been logged, especially concerning the checkout process. Further investigation is required to resolve these issues before moving to production.
+#### Defects by Severity
+![Defects by Severity Chart](https://example.com/defects_severity_chart.png)
+
+#### Test Case Status
+![Test Case Status Chart](https://example.com/test_case_status_chart.png)
+
+### Recommendations
+- Improve error handling in the payment processes.
+- Enhance email notification systems for critical actions.
+- Increase focus on performance and stress testing to handle high user loads effectively.
