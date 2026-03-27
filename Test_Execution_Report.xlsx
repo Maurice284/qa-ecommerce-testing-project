@@ -1,6 +1,16 @@
-Execution Summary
-Total Test Cases: 30
-Passed: 25
-Failed: 5
-Bugs Identified: 5 
+| Test Case | Status | Bug Details | Comments |
+|-----------|--------|-------------|----------|
+| TC04     | Passed | N/A         |          |
+| TC10     | Failed | Bug #1234   | Critical  |
+| TC13     | Passed | N/A         |          |
+| TC26     | Failed | Bug #5678   | Urgent    |
+| TC29     | Passed | N/A         |          |
 
+## Summary
+
+- Total Test Cases: 5
+- Passed: 3
+- Failed: 2
+- Bugs Logged: 2
+
+Last updated on 2026-03-27 23:31:56 UTC.
