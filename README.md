@@ -83,3 +83,8 @@ The objectives of this testing project are:
 - Google Docs / Microsoft Word (Test Plan & Test Cases)
 - Google Sheets / Excel (Test Execution & Bug Reports)
 - Manual Testing Techniques
+- Jira
+- Postman
+- Test cases (manual testing)
+- GitHub
+- SQL
