@@ -1,1 +1,6 @@
-
+Test Case ID,Test Case Name,Precondition,Steps,Expected Result,Status,Bug ID,Bug Description,Issue Link
+TC04,Verify login with valid credentials,User registered,Enter valid email/password → Login,User logged in successfully,Fail,BUG-02,Error message displayed: "Invalid credentials",https://github.com/Maurice284/qa-ecommerce-testing-project/issues/2
+TC10,Verify add to cart button,Product page open,Click "Add to Cart",Product added to cart,Fail,BUG-01,Nothing happens when button is clicked,https://github.com/Maurice284/qa-ecommerce-testing-project/issues/3
+TC13,Verify update product quantity,Product in cart,Change quantity,Quantity updates correctly,Fail,BUG-03,Total remains the same,https://github.com/Maurice284/qa-ecommerce-testing-project/issues/4
+TC26,Verify product image display,Product page,View product image,Image loads correctly,Fail,BUG-04,Broken or missing Image,https://github.com/Maurice284/qa-ecommerce-testing-project/issues/5
+TC29,Verify invalid coupon code,Checkout page,Enter invalid coupon,Error message displayed,Fail,BUG-05,Discount is applied incorrectly,https://github.com/Maurice284/qa-ecommerce-testing-project/issues/1
