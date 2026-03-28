@@ -77,10 +77,25 @@ This document tracks bugs found during QA testing of the e-commerce platform. Fi
 <img width="1187" height="372" alt="image" src="https://github.com/user-attachments/assets/0a545431-73fe-4655-bced-e7657684cfdb" />
 
 ## Screenshot Reference
-***Add to Cart Button Not Working***
+Add to Cart Button Not Working BUG-01
 <img width="1010" height="673" alt="image" src="https://github.com/user-attachments/assets/12df0aeb-0fed-487c-b8ed-d512aee1dd89" />
 
-***Login Fails with Valid Credentials**
+Login Fails with Valid Credentials BUG-02
 <img width="1011" height="671" alt="image" src="https://github.com/user-attachments/assets/57227583-0ef2-4079-b699-a93df623b001" />
+
+Cart Total Not Updating BUG-03
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d1678af5-55c1-43b2-a38a-98fc63181626" />
+
+Broken Image on Product Page BUG-04
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a95b0e22-183d-41bf-85c6-68dd035faecb" />
+
+Invalid Coupon Accepted BUG-05
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58833a79-246c-4422-9035-1ede60ea4278" />
+
+
+
+
+
+
 
 
